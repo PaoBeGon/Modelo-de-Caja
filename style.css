@@ -1,0 +1,18 @@
+.uno{
+	background-color: #FFE4C4;
+		border: 10px solid #8A2BE2;
+
+}
+.dos{
+
+	margin: 70px 15px 40px 70px;
+	padding: 0px 10px 0px 10px;
+
+}
+.tres{
+	border: dashed black;
+	margin: 70px 20px 70px 20px;
+	background-color:white; 
+	text-align: center;
+
+}
